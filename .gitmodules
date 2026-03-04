@@ -1,0 +1,3 @@
+[submodule "extern/ibsimu"]
+	path = extern/ibsimu
+	url = git://ibsimu.git.sourceforge.net/gitroot/ibsimu/ibsimu
