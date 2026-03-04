@@ -8,6 +8,11 @@ target_sources(simu
         vlasov2d.cpp
 )
 
+target_include_directories(simu
+    PUBLIC
+        "../include"
+)
+
 target_link_libraries(simu
     PUBLIC
         PkgConfig::IBSIMU

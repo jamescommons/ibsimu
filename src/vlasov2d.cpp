@@ -7,6 +7,7 @@
 #include "geomplotter.hpp"
 #include "ibsimu.hpp"
 #include "error.hpp"
+#include "vlasov2d.hpp"
 
 bool solid1( double x, double y, double z )
 {
